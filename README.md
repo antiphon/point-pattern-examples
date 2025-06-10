@@ -11,6 +11,6 @@ Example point patterns not found elsewhere.
 - Heterogeneous, size-marked, for local size diversity exploration:
   - Related to a paper in revision
   - [lisa-aggregate-late-dbh](data/lisa-aggregate-late-dbh.csv)
-- Heterogeneous example for local clustering diversity exploration:
+- Heterogeneous, for local clustering diversity exploration:
   - Related to a paper in revision
   - [lisa-aggregate-late-clustering](data/lisa-aggregate-late-clustering.csv)
