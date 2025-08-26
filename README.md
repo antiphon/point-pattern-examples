@@ -6,7 +6,7 @@ Example point patterns not found elsewhere.
 
 
 - Heterogeneous, multitype, for local species diversity exploration:
-  - Related to a paper in revision
+  - Related paper: [Computing maps of forest structural diversity: Aggregate late](https://doi.org/10.1016/j.ecolind.2025.114046)
   - [lisa-aggregate-late-species](data/lisa-aggregate-late-species.csv)
 - Heterogeneous, size-marked, for local size diversity exploration:
   - Related to a paper in revision
